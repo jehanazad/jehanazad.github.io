@@ -1,2 +1,2 @@
-kazad.github.io
+jazad.github.io
 ===============
